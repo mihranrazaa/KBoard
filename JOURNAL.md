@@ -16,7 +16,7 @@ I already have almost all the required components + i want to use all my idle co
 
 ![WhatsApp Image 2025-09-26 at 9.04.16 PM.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTUsInB1ciI6ImJsb2JfaWQifX0=--920c81486716f324f72434b8886183ca1d9d85dd/WhatsApp%20Image%202025-09-26%20at%209.04.16%20PM.jpeg)  
 
-## 9/27/2025 - Basic Schematic is done  
+## 9/27/2025 9 AM - Basic Schematic is done  
 
 Downloaded all the libs as i just installed and setup another OS, i haven't added rotary encoders i will replace them with top-right last 3 switches or maybe not :\ , need to connect, i will do that after a break + i'm also thinking of adding a oled display because  also have a spare oled display so maybe i will use that too...
 
@@ -24,5 +24,14 @@ Downloaded all the libs as i just installed and setup another OS, i haven't adde
 
 ![Screenshot 2025-09-27 144712.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzAsInB1ciI6ImJsb2JfaWQifX0=--92b6b2fd8533f46d4a1de2c4b24dbe301f97127b/Screenshot%202025-09-27%20144712.png)
 
+  
+
+## 9/27/2025 10 AM - Completed Schematics!   
+
+Schematics is doneeeeeeeeeee! 
+I have dropped the idea of using rotary encoder as i can't find a good use tho i thought of using them as brightness and volume control but i already have a macropad for that so it would be useless... 
+And now i will complete this kboard todayyyyy!!
+
+![Screenshot 2025-09-27 160321.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzEsInB1ciI6ImJsb2JfaWQifX0=--c35f21e3e0767bdcbf8587792ec5ed489c1df613/Screenshot%202025-09-27%20160321.png)
   
 
