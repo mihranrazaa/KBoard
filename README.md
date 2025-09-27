@@ -3,7 +3,7 @@
 ![Screenshot](Assets/rr.png)
 
 ## Overview
-a 75%% keyboard design, it is based on RP2040 plus with a type C port which came in-built with the MCU, there total of 87 MX switches design with 5 Stabilizer type switches. A complete keyboard :).
+a 75%% keyboard design, it is based on RP2040 plus with a type C port which came in-built with the MCU, there total of 87 MX switches with 5 Stabilizers. A complete keyboard :).
 
 ## Bit in depth info
 The keyboard is designed to be sleek and plane it has RP2040 plus as the MCU and Cherry MX Brown Switches for the keys which are used for versatile purposes (that's what i saw at least). The main firmware is KMK based and the Firmware has already been released, you can find that in the Firmware and Production folder, I hate using different cables so having type c inbuilt in the RP2040 plus is a win-win.
