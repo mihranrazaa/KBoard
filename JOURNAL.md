@@ -53,3 +53,17 @@ Here are all the images from this session. BYEE ::
 ![Screenshot 2025-09-27 202722.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzIsInB1ciI6ImJsb2JfaWQifX0=--4af4d52cbdb10772819249a6c14e2af3950eaa0b/Screenshot%202025-09-27%20202722.png)
   
 
+## 9/27/2025 9 PM - Shipping time!!!  
+
+Alright i have done everything for the version which is ready fr shipping, i didn't add art as it would have been covered under the switches anyways.. so i added the name of keeb in the back, next i updated my github with the proper readme and added all the files, i have added bom in the root and production directory also added links in the readme, i think it is pretty much ready to ship yeah!!!!
+
+---
+
+Here is the final image of the pcb::
+
+![Screenshot 2025-09-28 021334.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzksInB1ciI6ImJsb2JfaWQifX0=--e7fbd9c7166cb26d9d3dc1cbeac8fbff6244a926/Screenshot%202025-09-28%20021334.png)
+![Screenshot 2025-09-27 215656.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzgsInB1ciI6ImJsb2JfaWQifX0=--761377f7e9a841ba041395f70546ee0bb4fc88c6/Screenshot%202025-09-27%20215656.png)
+
+
+  
+
