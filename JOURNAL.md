@@ -16,3 +16,40 @@ I already have almost all the required components + i want to use all my idle co
 
 ![WhatsApp Image 2025-09-26 at 9.04.16 PM.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTUsInB1ciI6ImJsb2JfaWQifX0=--920c81486716f324f72434b8886183ca1d9d85dd/WhatsApp%20Image%202025-09-26%20at%209.04.16%20PM.jpeg)  
 
+## 9/27/2025 9 AM - Basic Schematic is done  
+
+Downloaded all the libs as i just installed and setup another OS, i haven't added rotary encoders i will replace them with top-right last 3 switches or maybe not :\ , need to connect, i will do that after a break + i'm also thinking of adding a oled display because  also have a spare oled display so maybe i will use that too...
+
+![Screenshot 2025-09-27 145318.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjksInB1ciI6ImJsb2JfaWQifX0=--426e78f756f9caef0c4343c69d57e3566c988ba4/Screenshot%202025-09-27%20145318.png)
+
+![Screenshot 2025-09-27 144712.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzAsInB1ciI6ImJsb2JfaWQifX0=--92b6b2fd8533f46d4a1de2c4b24dbe301f97127b/Screenshot%202025-09-27%20144712.png)
+
+  
+
+## 9/27/2025 10 AM - Completed Schematics!   
+
+Schematics is doneeeeeeeeeee! 
+I have dropped the idea of using rotary encoder as i can't find a good use tho i thought of using them as brightness and volume control but i already have a macropad for that so it would be useless... 
+And now i will complete this kboard todayyyyy!!
+
+![Screenshot 2025-09-27 160321.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzEsInB1ciI6ImJsb2JfaWQifX0=--c35f21e3e0767bdcbf8587792ec5ed489c1df613/Screenshot%202025-09-27%20160321.png)
+  
+
+## 9/27/2025 6 PM - Routed the PCB!  
+
+My Keyboard PCB is done!!
+i have routed the pcb, added no net fill, added stabilizers and mostly is completed now i want to add some art on it, then seting up the readme and github page and most work will be done, i put the mcu in the corner which looks good imo, i had some errors on DRC but i fixed them pretty easily..... 
+i had some things to write but now i forgot at the end because i took a break between writing this and completing the pcb :/. But this were the major happenings and thoughts. 
+
+--- 
+
+Here are all the images from this session. BYEE ::
+
+![Screenshot 2025-09-27 215656.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzQsInB1ciI6ImJsb2JfaWQifX0=--02a7414004c5a7f9731ffa3070f97bb8050a6173/Screenshot%202025-09-27%20215656.png)
+![Screenshot 2025-09-27 211109.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzUsInB1ciI6ImJsb2JfaWQifX0=--c8fc3a381fec4ac1680ee605ccb63de345248052/Screenshot%202025-09-27%20211109.png)
+![Screenshot 2025-09-27 215710.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzMsInB1ciI6ImJsb2JfaWQifX0=--c63a92355e8e8ed6496c595ea7f6fc9f272f4ad2/Screenshot%202025-09-27%20215710.png)
+![Screenshot 2025-09-27 215507.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzYsInB1ciI6ImJsb2JfaWQifX0=--eac14985d090662c05a67e91a0db14800aeeffc3/Screenshot%202025-09-27%20215507.png)
+![Screenshot 2025-09-27 164509.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzcsInB1ciI6ImJsb2JfaWQifX0=--3ddc9e7e209993b6d848463f7e56575cbd60207d/Screenshot%202025-09-27%20164509.png)
+![Screenshot 2025-09-27 202722.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzIsInB1ciI6ImJsb2JfaWQifX0=--4af4d52cbdb10772819249a6c14e2af3950eaa0b/Screenshot%202025-09-27%20202722.png)
+  
+
