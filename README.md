@@ -35,6 +35,20 @@ The files for the PCB and Schematics are available in the Kicad folder and gerbe
 
 ![Screenshot](Assets/r5.png)
 
+### Case 
+
+The files for the case and plate are available in the CAD folder and in the Production folder..
+
+
+![Screenshot](Assets/cad1.jpg)
+
+![Screenshot](Assets/cad2.jpg)
+
+![Screenshot](Assets/cad3.jpg)
+
+![Screenshot](Assets/cad4.jpg)
+
+![Screenshot](Assets/cad5.jpg)
 
 
 ---
@@ -45,18 +59,17 @@ The files for the PCB and Schematics are available in the Kicad folder and gerbe
 
 | Component                 | Quantity | Note                                                                                    | Price    | Link                                                                                                                                       |
 | ------------------------- | -------- | --------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cherry MX Switches(Brown) | 1       | Couldn't find a proper retailer on Amazon.They are selling for the right amount i think, | 32USD    | [Available](https://www.keychron.com/products/cherry-switch-set?variant=39298816835673)                                                    |
-| White Keycaps set         | 1        | Good Asthetics are important I will keep the body grey :)                               | 25USD    | [Available](https://www.keychron.com/products/cherry-profile-double-shot-pbt-full-set-keycaps-dolch-red-gray-white-mint-blue-black-yellow) |
+| Akko Switched | 2       | The sound of these switches are said to be very creamy :yasty | 26USD    | [Available](https://stackskb.com/store/akko-v5-creamy-yellow-pro-switch-pack-of-45/)                                                    |
+| White Keycaps set         | 1        | Good Asthetics are important I will keep the body grey :)                               | 27USD    | [Available](https://stackskb.com/store/white-grey-and-yellow-double-shot-abs-cherry-profile-keycaps/) |
 | Stabilizer set            | 1        | It has 2 extra Stabilizers just in case..                                               | 20USD    | [Available](https://amzn.in/d/dM157FJ) [Available](https://amzn.in/d/5Nto8PQ)                                                              |
-| Case & PCB                | 1        | I will make them through any local business                                             | 15-20USD |                                                                                                                                            |
-| TOTAL                     |          |                                                                                         | 100USD   |                                                                                                                                            |
+| Case & PCB                | 1        | I will make them through any local business                                             | 50-80USD |                                                                                                                                            |
+| TOTAL                     |          |                                                                                         | 150USD   |                                                                                                                                            |
 
-I already have almost all the stuff just need stabilizers and pcb 
+I already have almost all the stuff just need stabilizers and pcb.. M3 screws and heatset inserts are not included as i already have them, one pack of each is more then enough.
+
 
 ---
 
-## End
-Check my [BLOG](https://mihranrazaa.pages.dev/)
-~ mihranrazaa
+made with <3 by [mihranrazaa](https://mihranrazaa.info/)
 
 BYEEE
