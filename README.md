@@ -59,13 +59,11 @@ The files for the case and plate are available in the CAD folder and in the Prod
 
 | Component                 | Quantity | Note                                                                                    | Price    | Link                                                                                                                                       |
 | ------------------------- | -------- | --------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Akko Switched | 2       | The sound of these switches are said to be very creamy :yasty | 26USD    | [Available](https://stackskb.com/store/akko-v5-creamy-yellow-pro-switch-pack-of-45/)                                                    |
-| White Keycaps set         | 1        | Good Asthetics are important I will keep the body grey :)                               | 27USD    | [Available](https://stackskb.com/store/white-grey-and-yellow-double-shot-abs-cherry-profile-keycaps/) |
-| Stabilizer set            | 1        | It has 2 extra Stabilizers just in case..                                               | 20USD    | [Available](https://amzn.in/d/dM157FJ) [Available](https://amzn.in/d/5Nto8PQ)                                                              |
-| Case & PCB                | 1        | I will make them through any local business                                             | 50-80USD |                                                                                                                                            |
-| TOTAL                     |          |                                                                                         | 150USD   |                                                                                                                                            |
-
-I already have almost all the stuff just need stabilizers and pcb.. M3 screws and heatset inserts are not included as i already have them, one pack of each is more then enough.
+| Akko Yello creamy | 2       | Found a good website!! | 25USD    | [Available](https://stackskb.com/store/akko-v5-creamy-yellow-pro-switch-pack-of-45/)                                                    |
+| Grey Keycaps set         | 1        | Good Asthetics are important I will keep the body grey :)                               | 16USD    | [Available](https://stackskb.com/store/white-grey-and-yellow-double-shot-abs-cherry-profile-keycaps/) |
+| Stabilizer set            | 1        | PCB Mounted Stabs| 17USD    | [Available](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/)                                                         |
+| Case & PCB                | 1        | This is the cheapest i could find                                             | 63USD | https://robu.in/                                                                                                                                         |
+| TOTAL                     |          |                                                                                         | 110-120 |                                                                                                                                            |
 
 
 ---
